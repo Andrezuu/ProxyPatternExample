@@ -1,5 +1,3 @@
-package proxy.youtubeProxy;
-
 import java.util.HashMap;
 
 public interface ThirdPartyYoutubeLib {

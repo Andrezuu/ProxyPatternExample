@@ -1,5 +1,3 @@
-package proxy.youtubeProxy;
-
 public class Video {
     public String id;
     public String title;

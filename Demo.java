@@ -1,5 +1,3 @@
-package proxy.youtubeProxy;
-
 public class Demo {
     public static void main(String[] args) {
         YoutubeDownloader naiveDownloader = new YoutubeDownloader(new ThirdPartyYoutubeClass());
